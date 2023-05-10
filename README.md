@@ -7,19 +7,6 @@
 
 Ссылка на курс: https://praktikum.yandex.ru/data-scientist/
 
-### Содержание
-
-
-Сборный проект 1 / Common project - Project_04
-Введение в машинное обучение / Introduction to machine learning - Project_05
-Обучение с учителем / Supervised learning - Project_06
-Машинное обучение в бизнесе / Machine learning in business - Project_07
-Сборный проект / Common project - Project_08
-Линейная алгебра / Linear algebra - Project_09
-Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting) - Project_10
-Временные ряды / Time series - Project_11
-Машинное обучение для текстов / Machine learning for texts - Project_12
-Выпускной проект / Final project - Project_final
 
 
 ## Проекты
